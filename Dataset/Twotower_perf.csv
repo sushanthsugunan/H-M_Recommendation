@@ -1,0 +1,9 @@
+,Parameters
+factorized_top_k/top_1_categorical_accuracy,0.18503937125205994
+factorized_top_k/top_5_categorical_accuracy,0.7401574850082397
+factorized_top_k/top_10_categorical_accuracy,0.9566929340362549
+factorized_top_k/top_50_categorical_accuracy,1.0
+factorized_top_k/top_100_categorical_accuracy,1.0
+loss,684.647705078125
+regularization_loss,0.0
+total_loss,684.647705078125
